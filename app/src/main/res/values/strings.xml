@@ -1,6 +1,6 @@
 <resources>
-<string name="app_name" translatable="false">LAP-hourse</string>
-<string name="L1">CODE   ######</string>
+    <string name="app_name" translatable="false">LAP-hourse</string>
+    <string name="L1">CODE   ######</string>
     <string name="L2">MODEl    ######</string>
     <string name="L3">BRAND    ######</string>
 
@@ -16,6 +16,15 @@
     <string name="T7">VGA</string>
     <string name="T8">OTHER</string>
 
-
+    <string name="cha_01">Supplier add details</string>
+    <string name="cha_02">Customer Name</string>
+    <string name="cha_03">Customer ID</string>
+    <string name="cha_04">Customer Address</string>
+    <string name="cha_05">Item Code</string>
+    <string name="cha_06">VIEW DETAILS</string>
+    <string name="cha_07">LAP HOUSE</string>
+    <string name="cha_08">Supplier Details</string>
+    <string name="cha_09">Customer ID</string>
+    <string name="cha_10">DELETE DETAILS</string>
 
 </resources>
