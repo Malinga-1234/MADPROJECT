@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name" translatable="false">LAP-hourse</string>
+<string name="L1">CODE   ######</string>
+    <string name="L2">MODEl    ######</string>
+    <string name="L3">BRAND    ######</string>
+
+    <string name="L4">AQ  ##</string>
+
+    <string name="D1">ITEM ADD</string>
+    <string name="T1">RAM</string>
+    <string name="T2">MOTHERBORD</string>
+    <string name="T3">CABLE</string>
+    <string name="T4">HARD</string>
+    <string name="T5">CPU</string>
+    <string name="T6">COOLING</string>
+    <string name="T7">VGA</string>
+    <string name="T8">OTHER</string>
+
+
+
+</resources>
