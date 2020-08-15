@@ -1,30 +1,18 @@
 <resources>
-    <string name="app_name" translatable="false">LAP-hourse</string>
-    <string name="L1">CODE   ######</string>
-    <string name="L2">MODEl    ######</string>
-    <string name="L3">BRAND    ######</string>
-
-    <string name="L4">AQ  ##</string>
-
-    <string name="D1">ITEM ADD</string>
-    <string name="T1">RAM</string>
-    <string name="T2">MOTHERBORD</string>
-    <string name="T3">CABLE</string>
-    <string name="T4">HARD</string>
-    <string name="T5">CPU</string>
-    <string name="T6">COOLING</string>
-    <string name="T7">VGA</string>
-    <string name="T8">OTHER</string>
-
-    <string name="cha_01">Supplier add details</string>
-    <string name="cha_02">Customer Name</string>
-    <string name="cha_03">Customer ID</string>
-    <string name="cha_04">Customer Address</string>
-    <string name="cha_05">Item Code</string>
-    <string name="cha_06">VIEW DETAILS</string>
-    <string name="cha_07">LAP HOUSE</string>
-    <string name="cha_08">Supplier Details</string>
-    <string name="cha_09">Customer ID</string>
-    <string name="cha_10">DELETE DETAILS</string>
-
+    <string name="app_name">LAP_House</string>
+    <string name="R1">Welcome to Lap House</string>
+    <string name="R2">Customer</string>
+    <string name="R3">Item</string>
+    <string name="R4">Payment</string>
+    <string name="R5">Supply</string>
+    <string name="R6">About Us</string>
+    <string name="R7">LAP House</string>
+    <string name="btn1">LOGIN</string>
+    <string name="btn2">REGISTER</string>
+    <string name="R8">Forget Password?</string>
+    <string name="R9">Register</string>
+    <string name="btn3">EDIT</string>
+    <string name="btn4">Submit</string>
+    <string name="R10">Customer Details</string>
+    <string name="btn5">DELETE</string>
 </resources>

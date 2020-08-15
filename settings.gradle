@@ -1,2 +1,2 @@
+rootProject.name='LAP_House'
 include ':app'
-rootProject.name = "LAP-hourse"
