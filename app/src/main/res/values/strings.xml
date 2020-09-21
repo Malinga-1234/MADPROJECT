@@ -15,4 +15,9 @@
     <string name="btn4">Submit</string>
     <string name="R10">Customer Details</string>
     <string name="btn5">DELETE</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_code">Item code</string>
+    <string name="item_model">Item model</string>
+    <string name="item_brand">Item brand</string>
+    <string name="item_availability">Item availability</string>
 </resources>
